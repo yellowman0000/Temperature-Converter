@@ -1,1 +1,2 @@
 # Temperature-Converter
+ A temperature converter that converts Celsius to Fahrenheit and vice versa. The user is prompted to enter the temperature they would like to convert and the program will output the converted temperature. The user can choose to convert from Celsius to Fahrenheit or Fahrenheit to Celsius. The program will keep running until the user enters a valid input. The program uses a loop to keep asking the user for input until a valid input is entered. The program also rounds the converted temperature to two decimal places.
